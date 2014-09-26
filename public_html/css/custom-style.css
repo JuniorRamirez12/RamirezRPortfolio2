@@ -1,13 +1,21 @@
+body {
+    background-color: red;
+}
+
 div {
-    border-style: solid;
+    border-style: none;
     border-width: 5px;
     padding: 30px;
 }
 
 .container {
-    border-color: red;
+    border-color: white;
 }
 
 .row {
-    border-color: blue;
+    border-color: white;
 }
+body {
+    background-image: url(http://31.media.tumblr.com/b85949af982715fb98d347cf486a89fa/tumblr_mh25zyt1KA1rfp38ho1_500.gif)
+}
+
